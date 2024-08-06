@@ -11,8 +11,4 @@
 💭 Currently learning about Cloud Service Providers and Networking to earn my AWS Cloud Pratictioner Cert and Network Security+ Cert <br/>
 
 
-<!--
-GitHub profile stats from .
--->
 
-[![Tadius' GitHub stats](https://github-readme-stats.vercel.app/api?username=tadiusfrank2001)](https://github.com/anuraghazra/github-readme-stats)
