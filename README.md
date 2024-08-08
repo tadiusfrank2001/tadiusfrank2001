@@ -10,7 +10,10 @@
 👨🏾‍💻 Aspiring Software Developer, intrested in Data Engineering, Data Science, Machine Learning, Security, and NLP <br/>
 ⚡ Fun Facts: Runner 🏃🏽‍♂️, French and Creole Speaker 🇬🇫 <br/>
 
-💭 Currently learning about Cloud Service Providers and Networking to earn my AWS Cloud Pratictioner Cert and Network Security+ Cert <br/>
+💭 Current Focus: <br/>
++ Cloud Service Providers and Networking <br/>
++ Earning my AWS Cloud Pratictioner Cert <br/>
++ Earning my Network Security+ Cert <br/>
 
 
 
