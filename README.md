@@ -10,7 +10,7 @@
 👨🏾‍💻 Aspiring Software Developer, intrested in Data Engineering, Data Science, Machine Learning, Security, and NLP <br/>
 ⚡ Fun Facts: Photographer 📷 , Runner 🏃🏽‍♂️, Linguist 💱, French and Creole Speaker 🇬🇫 <br/>
 
-# 💭 :electron: Current Focus
+# 💭 Current Focus
 
 + Cloud Service Providers and Networking <br/>
 + Earning my AWS Cloud Pratictioner Cert <br/>
