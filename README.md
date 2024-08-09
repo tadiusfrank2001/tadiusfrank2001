@@ -8,9 +8,10 @@
 
 👨🏾‍🎓 I’m studying Computer Science and Linguistics @ Pomona College [Computer Science](https://www.pomona.edu/academics/departments/computer-science) <br/>
 👨🏾‍💻 Aspiring Software Developer, intrested in Data Engineering, Data Science, Machine Learning, Security, and NLP <br/>
-⚡ Fun Facts: Runner 🏃🏽‍♂️, French and Creole Speaker 🇬🇫 <br/>
+⚡ Fun Facts: Photographer 📷 , Runner 🏃🏽‍♂️, French and Creole Speaker 🇬🇫 <br/>
 
-💭 Current Focus: <br/>
+# 💭 Current Focus
+
 + Cloud Service Providers and Networking <br/>
 + Earning my AWS Cloud Pratictioner Cert <br/>
 + Earning my Network Security+ Cert <br/>
