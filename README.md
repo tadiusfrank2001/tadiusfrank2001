@@ -7,7 +7,7 @@
 # About Me
 
 👨🏾‍🎓 I’m studying Computer Science and Linguistics @ Pomona College [Computer Science](https://www.pomona.edu/academics/departments/computer-science) <br/>
-👨🏾‍💻 Aspiring Software Developer, intrested in Data Engineering, Data Science, Machine Learning, Security, and NLP <br/>
+👨🏾‍💻 Aspiring Software Developer, interested  in Data Engineering, Data Science, Machine Learning, Security, and NLP <br/>
 ⚡ Fun Facts: Photographer 📷 , Runner 🏃🏽‍♂️, Linguist 💱, French and Creole Speaker 🇬🇫 <br/>
 
 # 💭 Current Focus
