@@ -4,7 +4,7 @@
 **tadiusfrank2001/tadiusfrank2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# About Me
+## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f64c.gif" width="50" height="50"/> About Me
 
 👨🏾‍🎓 I’m studying Computer Science and Linguistics @ Pomona College [Computer Science](https://www.pomona.edu/academics/departments/computer-science) <br/>
 👨🏾‍💻 Aspiring Software Developer, interested  in Data Engineering, Data Science, Machine Learning, Security, and NLP <br/>
@@ -16,7 +16,6 @@
 + Earning my AWS Cloud Pratictioner Cert <br/>
 + Earning my Network Security+ Cert <br/>
 
-## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f64c.gif" width="100" height="100"/> About Me
 
 
 # 💻 Tech Stack
