@@ -6,7 +6,7 @@
 <!--
 <!-- HEADER -->
 <p align="center">
-    <img width="50%" margin="0" padding="0" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Digital_rain_animation_big_letters_shine.gif"/>
+    <img width="20%" margin="0" padding="0" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Digital_rain_animation_big_letters_shine.gif"/>
 </p>
 <h3 align="center">
     Hi, I'm Tadius 
