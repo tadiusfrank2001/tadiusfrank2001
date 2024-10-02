@@ -16,6 +16,7 @@
 + Earning my AWS Cloud Pratictioner Cert <br/>
 + Earning my Network Security+ Cert <br/>
 
+## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f64c.gif" width="25" height="25"/> About Me
 
 
 # 💻 Tech Stack
