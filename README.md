@@ -6,17 +6,17 @@
 **tadiusfrank2001/tadiusfrank2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!--
+
 <!-- HEADER -->
 <p align="center">
-    <img width="18%" margin="0" padding="0" src="https://commons.wikimedia.org/wiki/File:Digital_rain_animation_big_letters_shine.gif"/>
+    <img width="18%" margin="0" padding="0" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Digital_rain_animation_big_letters_shine.gif"/>
 </p>
 <h3 align="center">
     Hi, I'm Tadius 
     </br> 
     Aspiring Software Engineer </br> CS <a align="center" href="https://www.pomona.edu/" target="_blank"> @PomonaCollege </a>
 </h3>
--->
+
 
 
 # <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fe.gif" width="50" height="50"/> About Me
