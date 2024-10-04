@@ -6,7 +6,7 @@
 <p align="center">
 </p>
 <h3 align="center">
-    Hi, I'm Tadius! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fe.gif" width="50" height="50"/>
+    Hi, I'm Tadius! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fe.gif" width="20" height="20"/>
     </br> 
     Aspiring Software Engineer, Linguist </br> CS & Linguistics <a align="center" href="https://www.pomona.edu/" target="_blank"> @PomonaCollege </a>
 </h3>
