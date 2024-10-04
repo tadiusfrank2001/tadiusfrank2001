@@ -29,7 +29,7 @@
 - **Continuous Learning:** Dedicated to ongoing professional growth by keeping up with the latest tech trends and enhancing my coding skills.
 - **Educational Pursuit:** Committed to pursing quality education to further enrich my fundamental understanding of computational and natural language systems.
 
-# <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f4a1.gif" width="25" height="25"/> Current Focus
+## <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f4a1.gif" width="25" height="25"/> Current Focus
 
 + Cloud Service Providers and Networking <br/>
 + Earning my AWS Cloud Pratictioner Cert <br/>
