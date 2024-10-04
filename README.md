@@ -13,7 +13,7 @@
 
 <!-- ABOUT ME -->
 
-# <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64c-1f3fe.gif" width="25" height="25"/> About Me
+## <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64c-1f3fe.gif" width="25" height="25"/> About Me
 
 👨🏾‍🎓 I’m studying Computer Science and Linguistics @ Pomona College [Computer Science](https://www.pomona.edu/academics/departments/computer-science) <br/>
 👨🏾‍💻 Aspiring Software Developer, interested  in Data Engineering, Data Science, Machine Learning, Security, and NLP <br/>
@@ -23,7 +23,7 @@
 
 <!-- PROFESSIONAL GOALS -->
 
-# <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" width="25" height="25"/> Professional Goals
+## <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" width="25" height="25"/> Professional Goals
 
 - **Career Development:** Career Development: Focused on advancing my career in software engineering, particularly in roles that integrate data engineering, machine learning, and full-stack development to create impactful products.
 - **Continuous Learning:** Dedicated to ongoing professional growth by keeping up with the latest tech trends and enhancing my coding skills.
@@ -35,7 +35,7 @@
 + Earning my AWS Cloud Pratictioner Cert <br/>
 + Earning my Network Security+ Cert <br/>
 
-# <img src="https://cdn3.emoji.gg/emojis/3863_gearz.gif" width="25" height="25"/> Technical Skills
+## <img src="https://cdn3.emoji.gg/emojis/3863_gearz.gif" width="25" height="25"/> Technical Skills
 
 
 #### Languages
