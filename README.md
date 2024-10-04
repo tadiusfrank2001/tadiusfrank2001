@@ -6,18 +6,27 @@
 <p align="center">
 </p>
 <h3 align="center">
-    Hi, I'm Tadius! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fe.gif" width="20" height="20"/>
+    Hi, I'm Tadius! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fe.gif" width="25" height="25"/>
     </br> 
     Aspiring Software Engineer, Linguist </br> CS & Linguistics <a align="center" href="https://www.pomona.edu/" target="_blank"> @PomonaCollege </a>
 </h3>
 
-# <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fe.gif" width="50" height="50"/> About Me
+# <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64c-1f3fe.gif" width="50" height="50"/> About Me
 
 👨🏾‍🎓 I’m studying Computer Science and Linguistics @ Pomona College [Computer Science](https://www.pomona.edu/academics/departments/computer-science) <br/>
 👨🏾‍💻 Aspiring Software Developer, interested  in Data Engineering, Data Science, Machine Learning, Security, and NLP <br/>
 ⚡ Fun Facts: Photographer 📷 , Runner 🏃🏽‍♂️, Linguist 💱, French and Créole Speaker 🇬🇫 <br/>
 
-# 💭 Current Focus
+
+<!-- PROFESSIONAL GOALS -->
+
+## <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" width="25" height="25"/> Professional Goals
+
+- **Career Development:** Career Development: Focused on advancing my career in software engineering, particularly in roles that integrate data engineering, machine learning, and full-stack development to create impactful products.
+- **Continuous Learning:** Dedicated to ongoing professional growth by keeping up with the latest tech trends and enhancing my coding skills.
+- **Educational Pursuit:** Committed to pursing quality education to further enrich my fundamental understanding of computation and natural languages.
+
+# <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f4a1.gif" width="25" height="25"/> Current Focus
 
 + Cloud Service Providers and Networking <br/>
 + Earning my AWS Cloud Pratictioner Cert <br/>
