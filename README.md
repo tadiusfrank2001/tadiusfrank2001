@@ -25,7 +25,7 @@
 
 ## <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" width="25" height="25"/> Professional Goals
 
-- **Career Development:** Career Development: Focused on advancing my career in software engineering, particularly in roles that integrate data engineering, machine learning, and full-stack development to create impactful products.
+- **Career Development:** Focused on advancing my career in software engineering, particularly in roles that integrate data engineering, machine learning, and full-stack development to create impactful products.
 - **Continuous Learning:** Dedicated to ongoing professional growth by keeping up with the latest tech trends and enhancing my coding skills.
 - **Educational Pursuit:** Committed to pursing quality education to further enrich my fundamental understanding of computational and natural language systems.
 
