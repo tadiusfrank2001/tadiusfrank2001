@@ -9,7 +9,7 @@
 <h3 align="center">
     Hi, I'm Tadius! 
     </br> 
-    Aspiring Software Engineer, Linguist </br> CS and Linguistics <a align="center" href="(https://www.pomona.edu/" target="_blank"> @PomonaCollege </a>
+    Aspiring Software Engineer, Linguist </br> CS and Linguistics <a align="center" href="https://www.pomona.edu/" target="_blank"> @PomonaCollege </a>
 </h3>
 
 # Hi I'm Tadius! (he/him)
