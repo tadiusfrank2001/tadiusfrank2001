@@ -7,9 +7,9 @@
     <img width="18%" margin="0" padding="0" src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif"/>
 </p>
 <h3 align="center">
-    Hi, I'm Nafis 
+    Hi, I'm Tadius! 
     </br> 
-    Software Engineer </br> CS <a align="center" href="https://www.ccny.cuny.edu/" target="_blank"> @CCNY </a>
+    Aspiring Software Engineer, Linguist </br> CS and Linguistics <a align="center" href="(https://www.pomona.edu/" target="_blank"> @PomonaCollege </a>
 </h3>
 
 # Hi I'm Tadius! (he/him)
