@@ -4,12 +4,11 @@
 -->
 <!-- HEADER -->
 <p align="center">
-    <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fe.gif" width="50" height="50"/>
 </p>
 <h3 align="center">
-    Hi, I'm Tadius! 
+    Hi, I'm Tadius! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fe.gif" width="50" height="50"/>
     </br> 
-    Aspiring Software Engineer, Linguist </br> CS and Linguistics <a align="center" href="https://www.pomona.edu/" target="_blank"> @PomonaCollege </a>
+    Aspiring Software Engineer, Linguist </br> CS & Linguistics <a align="center" href="https://www.pomona.edu/" target="_blank"> @PomonaCollege </a>
 </h3>
 
 # <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fe.gif" width="50" height="50"/> About Me
