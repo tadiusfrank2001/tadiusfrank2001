@@ -2,6 +2,15 @@
 <!--
 **tadiusfrank2001/tadiusfrank2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<!-- HEADER -->
+<p align="center">
+    <img width="18%" margin="0" padding="0" src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif"/>
+</p>
+<h3 align="center">
+    Hi, I'm Nafis 
+    </br> 
+    Software Engineer </br> CS <a align="center" href="https://www.ccny.cuny.edu/" target="_blank"> @CCNY </a>
+</h3>
 
 # Hi I'm Tadius! (he/him)
 
