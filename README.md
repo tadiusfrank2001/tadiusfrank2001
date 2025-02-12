@@ -8,7 +8,7 @@
 <h3 align="center">
     Hi, I'm Tadius! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fe.gif" width="25" height="25"/>
     </br> 
-    Aspiring Software Engineer, Linguist </br> CS & Linguistics <a align="center" href="https://www.pomona.edu/" target="_blank"> @PomonaCollege </a>
+    Software Engineer, Computer Scientist, & Linguist </br> CS & Linguistics <a align="center" href="https://www.pomona.edu/" target="_blank"> @PomonaCollege </a>
 </h3>
 
 <!-- ABOUT ME -->
