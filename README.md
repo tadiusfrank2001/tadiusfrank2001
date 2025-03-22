@@ -31,9 +31,13 @@
 
 ## <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f4a1.gif" width="25" height="25"/> Current Focus
 
-+ Cloud Service Providers and Networking <br/>
++ Virtualization Technology (VirtualBox, UTM) <br/>
++ Containerization (Docker Engine) <br/>
++ Computer Networks (Protocols, Subnetting, Network Topology and Configurations, Network Devices) <br/>
++ Cloud Service Providers (AWS) <br/>
+
 + Earning my AWS Cloud Pratictioner Cert <br/>
-+ Earning my Network Security+ Cert <br/>
++ Earning my Security+ Cert <br/>
 
 ## <img src="https://cdn3.emoji.gg/emojis/3863_gearz.gif" width="25" height="25"/> Technical Skills
 
