@@ -35,7 +35,6 @@
 + Containerization (Docker Engine) <br/>
 + Computer Networks (Protocols, Subnetting, Network Topology and Configurations, Network Devices) <br/>
 + Cloud Service Providers (AWS) <br/>
-
 + Earning my AWS Cloud Pratictioner Cert <br/>
 + Earning my Security+ Cert <br/>
 
