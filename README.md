@@ -31,6 +31,7 @@
 
 ## <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f4a1.gif" width="25" height="25"/> Current Focus
 
++ Linux (Ubuntu, Kali, Parrot)
 + Virtualization Technology (VirtualBox, UTM) <br/>
 + Containerization (Docker Engine) <br/>
 + Computer Networks (Protocols, Subnetting, Network Topology and Configurations, Network Devices) <br/>
