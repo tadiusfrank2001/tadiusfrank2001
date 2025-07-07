@@ -17,7 +17,7 @@
 
 👨🏾‍🎓 I’m studying Computer Science and Linguistics @ Pomona College [Computer Science](https://www.pomona.edu/academics/departments/computer-science) <br/>
 👨🏾‍💻 Software Developer, interested  in Data Engineering, Data Science, Machine Learning, Security, and NLP <br/>
-⚡ Fun Facts: Photographer 📷 , Runner 🏃🏽‍♂️, Linguist 💱, French and Créole Speaker 🇬🇫 <br/>
+⚡ Fun Facts: Photographer 📷 , Runner 🏃🏽‍♂️, Linguist 💱, French and Créole Speaker <br/>
 
 
 
